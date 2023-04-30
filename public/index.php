@@ -1,4 +1,3 @@
 <?php
 
- echo 'Its working';
- 
+echo "Olá mundo";
